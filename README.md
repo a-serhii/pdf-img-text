@@ -1,1 +1,1 @@
-# Document parsing, extraction, image, parsing
+# Document parsing. Extraction and scraping image.
